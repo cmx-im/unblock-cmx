@@ -8,7 +8,7 @@
 
 | URL                        | Provider   |
 |----------------------------|------------|
-| https://cmx-im.work        | Cloudflare |
+| https://cmx-im.work        | Microsoft  |
 | https://strawberry.govt.hu | Cloudflare |
 | https://cmx.dyn.ch         | Cloudflare |
 
