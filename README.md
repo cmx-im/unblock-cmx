@@ -6,11 +6,11 @@
 
 ## 可用镜像 - Active Mirrors
 
-| URL                        | Provider   |
-|----------------------------|------------|
-| https://cmx-im.work        | Microsoft  |
-| https://strawberry.govt.hu | Cloudflare |
-| https://cmx.dyn.ch         | Cloudflare |
+| URL                        | Provider           |
+|----------------------------|--------------------|
+| https://cmx-im.work        | Microsoft AS8075   |
+| https://strawberry.govt.hu | Cloudflare AS13335 |
+| https://cmx.dyn.ch         | Cloudflare AS13335 |
 
 ## 使用说明 - Usage
 
@@ -31,5 +31,3 @@ If any of the above mirrors are blocked in China (test with this [tool](https://
 | ~~https://cmx.dyn.mk~~          | CN2-GIA    |
 | ~~https://mast.blackfalds.com~~ | Cloudflare |
 | ~~https://cmx.pp.ua~~           | CN2-GIA    |
-
-![](cmx.png)
