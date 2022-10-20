@@ -8,9 +8,8 @@
 
 | URL                        | Provider           |
 |----------------------------|--------------------|
-| https://cmx-im.work        | Microsoft AS8075   |
-| https://strawberry.govt.hu | Cloudflare AS13335 |
 | https://cmx.dyn.ch         | Cloudflare AS13335 |
+
 
 ## 使用说明 - Usage
 
@@ -28,6 +27,8 @@ If any of the above mirrors are blocked in China (test with this [tool](https://
 
 | URL                             | Provider   |
 |---------------------------------|------------|
+| ~~https://cmx-im.work~~ 被墙        | Microsoft AS8075   |
+| ~~https://strawberry.govt.hu~~ 被墙 | Cloudflare AS13335 |
 | ~~https://cmx.dyn.mk~~          | CN2-GIA    |
 | ~~https://mast.blackfalds.com~~ | Cloudflare |
-| ~~https://cmx.pp.ua~~           | CN2-GIA    |
+| ~~https://cmx.pp.ua~~被墙           | CN2-GIA    |
